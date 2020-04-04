@@ -1,6 +1,6 @@
 # DroneSimul
 
-Refer to "Report" for details
+Refer to [Report.pdf](https://github.com/medegw01/DroneSimul/blob/master/Report.pdf) for details
 
 ### Video Demo:
 #### Sucess:
